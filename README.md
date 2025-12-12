@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adigun Joseph 👋</h1>
+<h1 align="center">Hi, I'm ADIGUN Joseph Olusegun 👋</h1>
 <h3 align="center">Software Developer | Database Engineer | Educator | Researcher (M.Tech Computer Science)</h3>
 
 ---
