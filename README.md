@@ -31,7 +31,7 @@ Here are sample projects I have built or managed:
 - **College Website Development & Admin (https://fcwm.edu.ng)**  
 - **School Management Portal** – Student registration, payment, course management **(https://fcwm.edu.ng)**
 - **Student CBT Platform** – Secure online testing system  
-- **BOANig (Bank Of Agriculture Management System)**  
+- **AgriBankMS (Bank Of Agriculture Management System)**  
 - **LectraEval (Management System for Students’ Appraisal on Teaching Performance of Lecturers)**
 - **EduPredict (AN AI DATA-DRIVEN INSIGHTS FOR STUDENT SUCCESS)**
 - **Research Data Analytics Automation Tools**  
