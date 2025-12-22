@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me  
 I am a full-stack web developer and database engineer with over **5 years of experience** building secure, scalable, and user-friendly web applications using **PHP, MySQL, HTML, CSS, JavaScript**, and modern AI-assisted development tools.
 
-I currently work as a **Principal Program Analyst** where I develop enterprise software, administer databases, lecture programming courses, and supervise student projects.  
+I currently work as a **Asst. Chief System Analyst** where I develop enterprise software, administer databases, lecture programming courses, and supervise student projects.  
 I am passionate about building solutions that improve **education, research, data analysis, and digital infrastructure**.
 
 ---
@@ -29,12 +29,12 @@ Here are sample projects I have built or managed:
 
 ### 🔹 Full-Stack / Enterprise Systems
 - **College Website Development & Admin (https://fcwm.edu.ng)**  
-- **School Management Portal** – Student registration, payment, course management  
+- **School Management Portal** – Student registration, payment, course management **(https://fcwm.edu.ng)**
 - **Student CBT Platform** – Secure online testing system  
-- **Hospital Patient Management System**  
+- **Bank Of Agriculture Management System**  
+- **LectraEval (Management System for Students’ Appraisal on Teaching Performance of Lecturers)**
+- **EduPredict (AN AI DATA-DRIVEN INSIGHTS FOR STUDENT SUCCESS)**
 - **Research Data Analytics Automation Tools**  
-- **Library Management System**  
-- **HR Staff Attendance & Payroll System**
 
 ---
 
