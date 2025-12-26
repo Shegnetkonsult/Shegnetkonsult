@@ -84,7 +84,8 @@ I have authored and co-authored **20+ scientific publications** in:
 - **Email:**  
   - 📩 *Primary:* **sunkanmisegun@gmail.com**  
   - 📩 *Secondary:* **joseph.adigun@fcwm.edu.ng**  
-- **GitHub:** https://github.com/Shegnetkonsult  
+- **GitHub:** https://github.com/Shegnetkonsult
+- **Google Scholar:** https://scholar.google.com/citations?hl=en&user=6grT6xoAAAAJ
 
 ---
 
